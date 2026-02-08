@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Профиль | Gadget Shop</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <div class="brand">
+          <div class="brand-mark">GS</div>
+          <div class="brand-text">
+            <div class="brand-title">Gadget Shop</div>
+            <div class="brand-subtitle">Умные гаджеты на каждый день</div>
+          </div>
+        </div>
+        <nav class="nav">
+          <a href="index.html" class="nav-link">Каталог</a>
+          <a href="login.html" class="nav-link">Вход</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container page">
+      <section>
+        <div class="section-title">
+          <h2>Профиль</h2>
+          <span class="muted" id="profileMeta"></span>
+        </div>
+        <div class="tabs">
+          <button class="tab active" data-section="cart" onclick="show('cart')">Корзина</button>
+          <button class="tab" data-section="favorites" onclick="show('favorites')">Избранное</button>
+        </div>
+        <div id="content" class="list-grid"></div>
+      </section>
+    </main>
+
+    <script src="js/api.js"></script>
+    <script src="js/profile.js"></script>
+  </body>
+</html>

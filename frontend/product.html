@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Товар | Gadget Shop</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <div class="brand">
+          <div class="brand-mark">GS</div>
+          <div class="brand-text">
+            <div class="brand-title">Gadget Shop</div>
+            <div class="brand-subtitle">Умные гаджеты на каждый день</div>
+          </div>
+        </div>
+        <nav class="nav">
+          <a href="index.html" class="nav-link">Каталог</a>
+          <a href="profile.html" class="nav-link">Профиль</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container page">
+      <section class="product-layout">
+        <div class="product-media">
+          <img id="productImage" src="assets/placeholder.svg" alt="Product image" />
+        </div>
+        <div class="product-info">
+          <h1 id="productName">Загрузка...</h1>
+          <p id="productDesc"></p>
+          <div id="productSpecs" class="specs"></div>
+          <div id="productPrice" class="price-tag"></div>
+          <div class="form-actions">
+            <button class="btn" onclick="addToCart()">В корзину</button>
+            <button class="btn-secondary" onclick="addToFavorites()">В избранное</button>
+          </div>
+          <div id="actionStatus" class="status"></div>
+        </div>
+      </section>
+    </main>
+
+    <script src="js/api.js"></script>
+    <script src="js/productPage.js"></script>
+  </body>
+</html>

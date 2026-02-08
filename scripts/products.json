@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Logitech G502 X",
+    "price": 49990,
+    "brand": "Logitech G",
+    "category": "mouse",
+    "image": "assets/products/mouse-logitech-g502-x.png",
+    "description": "Проводная игровая мышь с облегчённым корпусом и гибридными переключателями LIGHTFORCE.",
+    "specs": "HERO 25K, 100–25 600 DPI, 13 кнопок, 89 г"
+  },
+  {
+    "name": "Logitech G305 LIGHTSPEED",
+    "price": 29990,
+    "brand": "Logitech G",
+    "category": "mouse",
+    "image": "assets/products/mouse-logitech-g305-lightspeed.png",
+    "description": "Доступная беспроводная мышь с сенсором HERO и большим временем работы.",
+    "specs": "HERO, 200–12 000 DPI, до 250 ч, LIGHTSPEED"
+  },
+  {
+    "name": "Logitech PRO X SUPERLIGHT 2",
+    "price": 89990,
+    "brand": "Logitech G",
+    "category": "mouse",
+    "image": "assets/products/mouse-logitech-pro-x-superlight-2.png",
+    "description": "Профессиональная беспроводная мышь серии PRO для соревновательной игры.",
+    "specs": "60 г, HERO 2, 44 000 DPI, LIGHTSPEED"
+  },
+  {
+    "name": "Logitech PRO X SUPERLIGHT 2 DEX",
+    "price": 89990,
+    "brand": "Logitech G",
+    "category": "mouse",
+    "image": "assets/products/mouse-logitech-pro-x-superlight-2-dex.png",
+    "description": "Асимметричная версия SUPERLIGHT 2 с акцентом на эргономику правой руки.",
+    "specs": "60 г, HERO 2, LIGHTSPEED, до 95 ч"
+  },
+  {
+    "name": "HyperX Pulsefire Haste 2",
+    "price": 28990,
+    "brand": "HyperX",
+    "category": "mouse",
+    "image": "assets/products/mouse-hyperx-pulsefire-haste-2.jpg",
+    "description": "Ультралёгкая проводная мышь для быстрых движений и точного контроля.",
+    "specs": "53 г, HyperX 26K, 8000 Гц, 650 IPS"
+  },
+  {
+    "name": "HyperX Pulsefire Haste 2 Wireless",
+    "price": 42990,
+    "brand": "HyperX",
+    "category": "mouse",
+    "image": "assets/products/mouse-hyperx-pulsefire-haste-2-wireless.jpg",
+    "description": "Беспроводная версия Haste 2 с лёгким корпусом и долгой работой.",
+    "specs": "61 г, до 100 ч, 2.4 ГГц + Bluetooth"
+  },
+  {
+    "name": "Razer Basilisk V3",
+    "price": 49990,
+    "brand": "Razer",
+    "category": "mouse",
+    "image": "assets/products/mouse-razer-basilisk-v3.jpg",
+    "description": "Эргономичная проводная мышь с фирменным HyperScroll и настраиваемой RGB.",
+    "specs": "26 000 DPI, 11 кнопок, HyperScroll"
+  },
+  {
+    "name": "Razer Viper V2 Pro",
+    "price": 89990,
+    "brand": "Razer",
+    "category": "mouse",
+    "image": "assets/products/mouse-razer-viper-v2-pro.jpg",
+    "description": "Ультралёгкая беспроводная мышь для киберспорта.",
+    "specs": "58 г, Focus Pro 30K, HyperSpeed"
+  },
+  {
+    "name": "Razer DeathAdder V3",
+    "price": 44990,
+    "brand": "Razer",
+    "category": "mouse",
+    "image": "assets/products/mouse-razer-deathadder-v3.webp",
+    "description": "Лёгкая эргономичная мышь для соревновательных игр.",
+    "specs": "59 г, Focus Pro 30K"
+  },
+  {
+    "name": "SteelSeries Aerox 3 Wireless",
+    "price": 39990,
+    "brand": "SteelSeries",
+    "category": "mouse",
+    "image": "assets/products/mouse-steelseries-aerox-3-wireless.png",
+    "description": "Лёгкая беспроводная мышь с защитой AquaBarrier.",
+    "specs": "68 г, 2.4 ГГц + Bluetooth, IP54"
+  },
+  {
+    "name": "ASUS ROG Keris II Ace",
+    "price": 79990,
+    "brand": "ASUS ROG",
+    "category": "mouse",
+    "image": "assets/products/mouse-asus-rog-keris-ii-ace.png",
+    "description": "Лёгкая беспроводная мышь для киберспорта с фирменными настройками ROG.",
+    "specs": "2.4 ГГц + Bluetooth, оптические переключатели, USB-C"
+  },
+  {
+    "name": "Corsair M65 RGB Ultra Wireless",
+    "price": 59990,
+    "brand": "Corsair",
+    "category": "mouse",
+    "image": "assets/products/mouse-corsair-m65-rgb-ultra-wireless.webp",
+    "description": "Беспроводная игровая мышь с настраиваемыми кнопками и RGB‑подсветкой.",
+    "specs": "2.4 ГГц + Bluetooth, 26 000 DPI, RGB"
+  },
+  {
+    "name": "Logitech MX Master 3S",
+    "price": 69990,
+    "brand": "Logitech",
+    "category": "mouse",
+    "image": "assets/products/mouse-logitech-mx-master-3s.png",
+    "description": "Флагманская офисная мышь с тихими кликами и колесом MagSpeed.",
+    "specs": "Bluetooth/Logi Bolt, MagSpeed, 200–8000 DPI"
+  },
+  {
+    "name": "SteelSeries Rival 5",
+    "price": 31990,
+    "brand": "SteelSeries",
+    "category": "mouse",
+    "image": "assets/products/mouse-steelseries-rival-5.jpg",
+    "description": "Мультижанровая игровая мышь с дополнительными кнопками и удобным хватом.",
+    "specs": "TrueMove Air, 18 000 CPI, 9 кнопок"
+  },
+  {
+    "name": "Pulsar X2V2",
+    "price": 54990,
+    "brand": "Pulsar",
+    "category": "mouse",
+    "image": "assets/products/mouse-pulsar-x2v2.png",
+    "description": "Симметричная лёгкая мышь для быстрых шутеров и точной стрельбы.",
+    "specs": "2.4 ГГц, лёгкий корпус, 26K"
+  },
+  {
+    "name": "LG UltraGear 27GP850-B",
+    "price": 89990,
+    "brand": "LG",
+    "category": "monitor",
+    "image": "assets/products/monitor-lg-ultragear-27gp850-b.jpg",
+    "description": "Игровой монитор с быстрым откликом и точной цветопередачей для динамичных сцен.",
+    "specs": "27\", 2560x1440, Nano IPS, 165 Гц (OC 180), 1 мс, DCI‑P3 98%, HDR400"
+  },
+  {
+    "name": "ASUS TUF Gaming VG27AQ",
+    "price": 79990,
+    "brand": "ASUS",
+    "category": "monitor",
+    "image": "assets/products/monitor-asus-tuf-vg27aq.jpg",
+    "description": "Универсальный QHD‑монитор для игр и работы с быстрой матрицей IPS.",
+    "specs": "27\", 2560x1440, IPS, 165 Гц, 1 мс MPRT, HDR10, 100% sRGB"
+  },
+  {
+    "name": "Dell S2721DGF",
+    "price": 84990,
+    "brand": "Dell",
+    "category": "monitor",
+    "image": "assets/products/monitor-dell-s2721dgf.jpg",
+    "description": "Сбалансированный QHD‑монитор с высокой частотой обновления и быстрым откликом.",
+    "specs": "27\", 2560x1440, IPS, 165 Гц (DP), 1 мс GtG, 400 нит"
+  },
+  {
+    "name": "MSI Optix MAG274QRF-QD",
+    "price": 89990,
+    "brand": "MSI",
+    "category": "monitor",
+    "image": "assets/products/monitor-msi-mag274qrf-qd.jpg",
+    "description": "Игровой Rapid IPS‑монитор с широким цветовым охватом и высокой плавностью.",
+    "specs": "27\", 2560x1440, Rapid IPS, 165 Гц, 1 мс GtG, 97% DCI‑P3"
+  },
+  {
+    "name": "Gigabyte M27Q",
+    "price": 79990,
+    "brand": "Gigabyte",
+    "category": "monitor",
+    "image": "assets/products/monitor-gigabyte-m27q.jpg",
+    "description": "QHD‑монитор с IPS‑матрицей и высокой частотой обновления для игр и творчества.",
+    "specs": "27\", 2560x1440, SS IPS, 165/170 Гц, 1 мс MPRT, HDR400"
+  },
+  {
+    "name": "BenQ MOBIUZ EX2710S",
+    "price": 59990,
+    "brand": "BenQ",
+    "category": "monitor",
+    "image": "assets/products/monitor-benq-ex2710s.jpg",
+    "description": "Динамичный Full HD‑монитор для игр с быстрым откликом и HDR10.",
+    "specs": "27\", 1920x1080, IPS, 165 Гц, 1 мс MPRT, HDR10"
+  },
+  {
+    "name": "AOC 24G2SP",
+    "price": 49990,
+    "brand": "AOC",
+    "category": "monitor",
+    "image": "assets/products/monitor-aoc-24g2sp.png",
+    "description": "Компактный игровой IPS‑монитор с высокой частотой обновления.",
+    "specs": "23.8\", 1920x1080, IPS, 165 Гц, 1 мс MPRT"
+  },
+  {
+    "name": "Acer Nitro XV272U KV",
+    "price": 79990,
+    "brand": "Acer",
+    "category": "monitor",
+    "image": "assets/products/monitor-acer-nitro-xv272u-kv.jpg",
+    "description": "Универсальный QHD‑монитор с высокой частотой обновления и HDR.",
+    "specs": "27\", 2560x1440, IPS, 170 Гц (DP), 1 мс, HDR400"
+  },
+  {
+    "name": "LG UltraGear 24GN650-B",
+    "price": 54990,
+    "brand": "LG",
+    "category": "monitor",
+    "image": "assets/products/monitor-lg-ultragear-24gn650-b.jpg",
+    "description": "Быстрый Full HD‑монитор для игр и киберспорта с IPS‑матрицей.",
+    "specs": "23.8\", 1920x1080, IPS, 144 Гц, 1 мс GtG, sRGB 99%"
+  },
+  {
+    "name": "Dell G2724D",
+    "price": 79990,
+    "brand": "Dell",
+    "category": "monitor",
+    "image": "assets/products/monitor-dell-g2724d.jpg",
+    "description": "QHD‑монитор серии G с высокой частотой обновления и быстрым откликом.",
+    "specs": "27\", 2560x1440, Fast IPS, 165 Гц, 1 мс GtG, HDR400"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "price": 99990,
+    "brand": "Sony",
+    "category": "headphones",
+    "image": "assets/products/headphones-sony-wh-1000xm5.jpg",
+    "description": "Премиальные наушники с активным шумоподавлением и чистым звучанием.",
+    "specs": "30 ч с ANC / 40 ч без ANC, Bluetooth 5.2"
+  },
+  {
+    "name": "Sony WH-CH720N",
+    "price": 39990,
+    "brand": "Sony",
+    "category": "headphones",
+    "image": "assets/products/headphones-sony-wh-ch720n.jpg",
+    "description": "Лёгкие наушники с шумоподавлением и длительной автономностью.",
+    "specs": "35 ч с ANC / 50 ч без ANC, Bluetooth 5.2"
+  },
+  {
+    "name": "Sony WH-XB910N",
+    "price": 59990,
+    "brand": "Sony",
+    "category": "headphones",
+    "image": "assets/products/headphones-sony-wh-xb910n.jpg",
+    "description": "Бас‑ориентированная модель с шумоподавлением и мощным звучанием.",
+    "specs": "30 ч с ANC / 50 ч без ANC, Bluetooth 5.2"
+  },
+  {
+    "name": "Bose QuietComfort Ultra",
+    "price": 99990,
+    "brand": "Bose",
+    "category": "headphones",
+    "image": "assets/products/headphones-bose-quietcomfort-ultra.webp",
+    "description": "Флагманские наушники Bose с сильным ANC и фирменной сценой.",
+    "specs": "До 24 ч, Bluetooth 5.3"
+  },
+  {
+    "name": "JBL Tour One M2",
+    "price": 79990,
+    "brand": "JBL",
+    "category": "headphones",
+    "image": "assets/products/headphones-jbl-tour-one-m2.jpg",
+    "description": "Полноразмерные наушники с ANC и акцентом на детализацию.",
+    "specs": "30 ч с ANC / 50 ч без ANC, 40 мм, Bluetooth 5.3"
+  },
+  {
+    "name": "Soundcore Space Q45",
+    "price": 49990,
+    "brand": "Soundcore",
+    "category": "headphones",
+    "image": "assets/products/headphones-soundcore-space-q45.jpg",
+    "description": "Доступная модель с ANC и очень большой автономностью.",
+    "specs": "50 ч с ANC / 65 ч без ANC"
+  },
+  {
+    "name": "Sennheiser Momentum 4 Wireless",
+    "price": 99990,
+    "brand": "Sennheiser",
+    "category": "headphones",
+    "image": "assets/products/headphones-sennheiser-momentum-4-wireless.jpg",
+    "description": "Премиальный звук и рекордная автономность в фирменном стиле Sennheiser.",
+    "specs": "До 60 ч с ANC, 42 мм"
+  },
+  {
+    "name": "Apple AirPods Max",
+    "price": 99990,
+    "brand": "Apple",
+    "category": "headphones",
+    "image": "assets/products/headphones-apple-airpods-max.jpg",
+    "description": "Наушники Apple с пространственным звучанием и активным шумоподавлением.",
+    "specs": "До 20 ч с ANC, Bluetooth 5.0"
+  },
+  {
+    "name": "HyperX Cloud Alpha Wireless",
+    "price": 69990,
+    "brand": "HyperX",
+    "category": "headphones",
+    "image": "assets/products/headphones-hyperx-cloud-alpha-wireless.jpg",
+    "description": "Игровая гарнитура с рекордной автономностью и мощными драйверами.",
+    "specs": "До 300 ч, 50 мм, 2.4 ГГц"
+  },
+  {
+    "name": "Logitech G PRO X 2 LIGHTSPEED",
+    "price": 99990,
+    "brand": "Logitech G",
+    "category": "headphones",
+    "image": "assets/products/headphones-logitech-g-pro-x-2-lightspeed.png",
+    "description": "Профессиональная гарнитура с несколькими вариантами подключения и высоким качеством звука.",
+    "specs": "До 50 ч, LIGHTSPEED + Bluetooth, 50 мм графен"
+  }
+]

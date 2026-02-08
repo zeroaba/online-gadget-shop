@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Вход | Gadget Shop</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <div class="brand">
+          <div class="brand-mark">GS</div>
+          <div class="brand-text">
+            <div class="brand-title">Gadget Shop</div>
+            <div class="brand-subtitle">Умные гаджеты на каждый день</div>
+          </div>
+        </div>
+        <nav class="nav">
+          <a href="index.html" class="nav-link">Каталог</a>
+          <a href="register.html" class="nav-link">Регистрация</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container page">
+      <section class="auth-wrap">
+        <h1 class="auth-title">Войти в аккаунт</h1>
+        <p class="auth-subtitle">Сохрани товары в корзине и избранном.</p>
+        <div id="authError" class="form-error"></div>
+        <div class="form">
+          <label class="form-row">
+            <span>Email</span>
+            <input id="email" type="email" placeholder="you@mail.com" />
+          </label>
+          <label class="form-row">
+            <span>Пароль</span>
+            <input id="password" type="password" placeholder="••••••••" />
+          </label>
+          <div class="form-actions">
+            <button class="btn" onclick="login()">Войти</button>
+            <a class="link" href="register.html">Нет аккаунта? Зарегистрироваться</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="js/api.js"></script>
+    <script src="js/auth.js"></script>
+  </body>
+</html>
