@@ -39,6 +39,11 @@ const show = section => {
 };
 
 const loadProfile = async () => {
+  if (!localStorage.getItem("token")) {
+    location.href = "login.html";
+    return;
+  }
+
   try {
     profileMeta.textContent = "Загрузка...";
     user = await apiFetch("/users/profile");
@@ -51,3 +56,8 @@ const loadProfile = async () => {
 };
 
 loadProfile();
+
+const logout = () => {
+  localStorage.removeItem("token");
+  location.href = "index.html";
+};

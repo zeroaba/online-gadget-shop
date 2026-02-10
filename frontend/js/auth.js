@@ -21,7 +21,7 @@ const login = async () => {
 
     if (data && data.token) {
       localStorage.setItem("token", data.token);
-      location.href = "index.html";
+      location.href = "profile.html";
       return;
     }
     showError("Не удалось войти. Проверьте данные.");
